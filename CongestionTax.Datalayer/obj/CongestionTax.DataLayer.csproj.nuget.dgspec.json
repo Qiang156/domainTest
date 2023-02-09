@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/qiang/Study/CongestionTax/CongestionTax.Datalayer/CongestionTax.DataLayer.csproj": {}
+  },
+  "projects": {
+    "/Users/qiang/Study/CongestionTax/CongestionTax.Datalayer/CongestionTax.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/qiang/Study/CongestionTax/CongestionTax.Datalayer/CongestionTax.DataLayer.csproj",
+        "projectName": "CongestionTax.DataLayer",
+        "projectPath": "/Users/qiang/Study/CongestionTax/CongestionTax.Datalayer/CongestionTax.DataLayer.csproj",
+        "packagesPath": "/Users/qiang/.nuget/packages/",
+        "outputPath": "/Users/qiang/Study/CongestionTax/CongestionTax.Datalayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/qiang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/qiang/Study/CongestionTax/CongestionTax.Domain/CongestionTax.Domain.csproj": {
+                "projectPath": "/Users/qiang/Study/CongestionTax/CongestionTax.Domain/CongestionTax.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/qiang/Study/CongestionTax/CongestionTax.Domain/CongestionTax.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/qiang/Study/CongestionTax/CongestionTax.Domain/CongestionTax.Domain.csproj",
+        "projectName": "CongestionTax.Domain",
+        "projectPath": "/Users/qiang/Study/CongestionTax/CongestionTax.Domain/CongestionTax.Domain.csproj",
+        "packagesPath": "/Users/qiang/.nuget/packages/",
+        "outputPath": "/Users/qiang/Study/CongestionTax/CongestionTax.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/qiang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

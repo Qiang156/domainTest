@@ -1,0 +1,6 @@
+{
+  "CongestionTax.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/qiang\/Study\/CongestionTax\/CongestionTax.Api",
+  "CongestionTax.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/qiang\/Study\/CongestionTax\/CongestionTax.Business",
+  "CongestionTax.DataLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/qiang\/Study\/CongestionTax\/CongestionTax.Datalayer",
+  "CongestionTax.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/qiang\/Study\/CongestionTax\/CongestionTax.Domain"
+}

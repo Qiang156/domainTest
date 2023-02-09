@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=12f491f3_002D33c8_002D4878_002D8649_002D3b3e8362e400/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_Case" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FD200FEA-2872-4440-8C89-64BAEBA551AA::net7.0::CongestionTax.Test.IntegrationTests.FeeWithinOneHourTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FD200FEA-2872-4440-8C89-64BAEBA551AA::net7.0::CongestionTax.Test.IntegrationTests.FeeOverOneHourTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FD200FEA-2872-4440-8C89-64BAEBA551AA::net7.0::CongestionTax.Test.IntegrationTests.FeeReachDailyLimitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FD200FEA-2872-4440-8C89-64BAEBA551AA::net7.0::CongestionTax.Test.IntegrationTests.ExemptVehicleTests.VerifyFeeForExemptVehicle&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
